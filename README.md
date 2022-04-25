@@ -3,6 +3,11 @@ Our visualization project focuses on the analysis of the trade relationship betw
 
 ![Data Visualization](https://github.com/socapal/international-trade-NAFTA/blob/main/data-vis.png)
 
+
+## Instructions:
+Use the R file to generate the visualizations which then will be further processed within the "Off-code changes" pptx file.
+
+
 ## Authors:
 Luis Armando Alvarado Rodríguez 
 
