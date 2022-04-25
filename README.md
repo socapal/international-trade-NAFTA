@@ -4,7 +4,8 @@ Our visualization project focuses on the analysis of the trade relationship betw
 ![Data Visualization](https://github.com/socapal/international-trade-NAFTA/blob/main/data-vis.png)
 
 ## Authors:
-Luis Armando Alvarado Rodríguez
+Luis Armando Alvarado Rodríguez 
+
 Sebastián Ocampo Palacios
 
 ## Course: 
